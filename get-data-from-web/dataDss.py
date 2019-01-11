@@ -3,6 +3,10 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 import csv
 
+'''
+    Simple crawl data: get information about university has IT-related major
+'''
+
 
 def main():
     url = "https://thituyensinh.vn/frontendTs/faces/TraCuu?_adf.ctrl-state=oyuu9sijz_14&_afrLoop=11607479606302706l"

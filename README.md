@@ -9,4 +9,4 @@ Project: "Cơ sở đào tạo CNTT (cả nước) bậc đại học năm 2018 
 - https://diemthi.tuyensinh247.com/
 - https://thongtintuyensinh.vn/Thong-tin-tuyen-sinh_C50_D1701.htm#.U5p8EXKSxCg
 
-2. Project: https://github.com/tuandoan23/DSS_QLDT.git
+2. Project: [link project](https://github.com/tuandoan23/DSS_QLDT.git)

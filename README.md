@@ -1,5 +1,5 @@
 # dss-data
-This repo prepare data for our group's DSS final-project at HUS
+This repo prepares data for our group's DSS final-project at HUS
 Project: "Cơ sở đào tạo CNTT (cả nước) bậc đại học năm 2018 tại Việt Nam" 
         (IT training institutions (nationwide) at university level in 2018 - Vietnam)
 
